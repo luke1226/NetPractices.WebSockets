@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/NetPractices.WebSockets/NetPractices.WebSockets/obj/Debug/netcoreapp1.1
+*.user
+*.suo
+/*/*/obj
+/*/*/bin
